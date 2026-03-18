@@ -1,1 +1,1 @@
-Commit on 2025-06-26T18:52:01Z: Update hyperparameter tuning scripts for 2025 benchmarks
+Commit on 2025-08-05T18:27:52Z: Clean up legacy code and improve variable naming
