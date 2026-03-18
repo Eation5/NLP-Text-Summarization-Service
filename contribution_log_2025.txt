@@ -1,1 +1,1 @@
-Commit on 2025-06-11T19:17:52Z: Fix synchronization bug in federated learning protocol
+Commit on 2025-06-11T11:29:55Z: Update documentation with new API endpoints
