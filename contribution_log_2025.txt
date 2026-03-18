@@ -1,1 +1,1 @@
-Commit on 2025-01-02T19:59:08Z: Adjust learning rate decay schedule
+Commit on 2025-01-02T20:33:21Z: Update README with 2025 project milestones
