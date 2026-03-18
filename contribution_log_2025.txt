@@ -1,1 +1,1 @@
-Commit on 2025-04-02T13:19:29Z: Fix concurrency issues in distributed training workers
+Commit on 2025-04-02T18:29:18Z: Streamline Docker containers for faster deployment
