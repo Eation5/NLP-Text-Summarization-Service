@@ -1,1 +1,1 @@
-Commit on 2024-12-18T14:14:40Z: Improve memory efficiency during training
+Commit on 2024-12-18T17:10:49Z: Update documentation and usage examples
